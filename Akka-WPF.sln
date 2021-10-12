@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akka-WPF", "Akka-WPF\Akka-WPF.csproj", "{EB0AD662-5209-4CDA-AA45-CA823DAA680D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB0AD662-5209-4CDA-AA45-CA823DAA680D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0AD662-5209-4CDA-AA45-CA823DAA680D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0AD662-5209-4CDA-AA45-CA823DAA680D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0AD662-5209-4CDA-AA45-CA823DAA680D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84E95215-7645-486C-89B6-60473D47D059}
+	EndGlobalSection
+EndGlobal
